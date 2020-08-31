@@ -31,7 +31,7 @@
     height: 50px;
 }
 
-li
+#mainLi
 {
     float: left;
     padding-right: 10px;
@@ -39,10 +39,7 @@ li
     text-align: center;
 }
 
-LinkTo .noLine
-{
-    text-decoration: none;
-}
+
 
 #input-area
 {
@@ -52,3 +49,8 @@ LinkTo .noLine
     text-align: left;
 }
 
+#peopleList
+{
+    padding-top: 10px;
+    padding-left: 1050px;
+}
