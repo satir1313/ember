@@ -1,0 +1,54 @@
+.product > section
+{
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: #f1c70b;
+}
+
+.product .inputArea
+{
+    height: 40px;
+    width: 250px;
+}
+
+.product .inputBtn
+{
+    margin-left: 20px;
+    height: 40px;
+    width: 80px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.navbar
+{
+    list-style-type: none;
+    margin-right: 0;
+    padding-right: 0;
+    overflow: hidden;
+    background-color: #f16508;
+    height: 50px;
+}
+
+li
+{
+    float: left;
+    padding-right: 10px;
+    color: white;
+    text-align: center;
+}
+
+LinkTo .noLine
+{
+    text-decoration: none;
+}
+
+#input-area
+{
+    height: 150px;
+    width: 850px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
